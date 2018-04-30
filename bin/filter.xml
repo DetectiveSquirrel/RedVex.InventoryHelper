@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InventoryFilter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Filters>
+    <Filter xsi:type="NameFilter">
+      <Name>Coral Ring</Name>
+      <Mods>
+        <Mod>
+          <Name>Life</Name>
+          <Value>20</Value>
+        </Mod>
+      </Mods>
+    </Filter>
+    <Filter xsi:type="NameFilter">
+      <Name>Short Bow</Name>
+      <Mods>
+        <Mod>
+          <Name>Sockets</Name>
+          <Value>2</Value>
+        </Mod>
+      </Mods>
+    </Filter>
+    <Filter xsi:type="BaseFilter">
+      <Name>Belts</Name>
+      <Mods>
+      </Mods>
+    </Filter>
+  </Filters>
+</InventoryFilter>
