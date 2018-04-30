@@ -9,3 +9,7 @@ Just download the zip file, and copy the bin folder to your plugins folder, chan
 ## Getting Started
 
 edit that preconfigured filter for your needs and set the colors in the settingsmenu ingame.
+
+## Screenshot
+
+![Screenshot](/InventoryHelper.jpg?raw=true "InventoryHelper")
